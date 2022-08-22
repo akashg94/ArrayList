@@ -6,7 +6,7 @@ class array {
             throws IOException
     {
         // size of ArrayList
-        int n = 5;
+        int n = 7;
 
         //declaring ArrayList with initial size n
         ArrayList<Integer> arrli = new ArrayList<Integer>(n);
